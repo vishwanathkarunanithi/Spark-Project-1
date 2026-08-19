@@ -1,0 +1,15 @@
+export const T = {
+  navy:    "var(--navy)",
+  navy2:   "var(--navy2)",
+  navy3:   "var(--navy3)",
+  indigo:  "var(--indigo)",
+  indigo2: "var(--indigo2)",
+  indigo3: "var(--indigo3)",
+  cyan:    "var(--cyan)",
+  amber:   "var(--amber)",
+  green:   "var(--green)",
+  red:     "var(--red)",
+  slate:   "var(--slate)",
+  slate2:  "var(--slate2)",
+  white:   "var(--white)",
+};
